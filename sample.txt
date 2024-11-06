@@ -1,0 +1,9 @@
+This is special text for tests
+Second row of text
+Third row of text
+Fourth row of text
+
+Это специальный текст для тестов
+Второй строки текста
+Третьей строки текста
+Четвертой строки текстовых
